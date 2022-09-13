@@ -21,10 +21,10 @@ manage data and chakra UI for application styling.
 - [ChakraUI](https://chakra-ui.com/)
 - [JWT (JSON Web Token)](https://jwt.io/)
 - [Stripe](https://stripe.com/)
-- [PostgreSQL](https://fauna.com/)
-- [Prisma ORM](https://prismic.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Prisma ORM](https://www.prisma.io/)
 - [Jest](https://jestjs.io/pt-BR/)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Axios](https://axios-http.com/ptbr/)
 
 ### Currently under development
 
