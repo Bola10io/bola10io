@@ -2,6 +2,10 @@
   Bola 10
 </h1>
 
+<p align="center">
+    Beta release forecast: 14/10/2022
+</p>
+
 ## About Project
 
 The project consists of a ReactJs application (only web initialy) with the Nextjs framework
@@ -33,6 +37,4 @@ manage data and chakra UI for application styling.
 - Backend
   - Payment Routes
   - Processing server
-
-### Beta release forecast: 14/10/2022
 
