@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Beta release forecast: 01/12/2022
+    Beta release forecast: 20/12/2022
 </p>
 
 ## About Project
